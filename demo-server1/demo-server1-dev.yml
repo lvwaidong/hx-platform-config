@@ -4,7 +4,7 @@ server:
 spring:
   application:
     name: demo-server1
-    description: demo-server1 开发服务环境的测试de
+    description: demo-server1 开发服务环境的测试得得
   main:
     allow-bean-definition-overriding: true
   datasource:
